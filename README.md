@@ -2,12 +2,13 @@
 
 <p align="center">
   Aplicação interativa para exibir e navegar por um <strong>cardápio digital</strong> de um restaurante diretamente no navegador.<br/>
-  Desenvolvida com <code>React</code> e <code>Vite</code>.
+  Desenvolvida com <code>React</code>, <code>Vite</code> e <code>JavaScript</code>.
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
 ---
