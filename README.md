@@ -47,7 +47,7 @@ cardapio_digital/
 
 ---
 
-## 🛠️ TECNOLOGIAS UTILIZADAS
+## 🛠️ PRINCIPAIS TECNOLOGIAS UTILIZADAS
 
 - `React` (JSX) — Biblioteca de UI.
 - `Vite` — Ferramenta de build/dev server.
@@ -70,13 +70,6 @@ Durante o desenvolvimento, aprimorei meus conhecimentos em:
 - Organização de assets e dados dinâmicos.
 - Uso do Vite para ambiente rápido de desenvolvimento.
 - Melhoria na semântica e na reutilização de código.
-
----
-
-## 📌 STATUS DO PROJETO
-![Badge Em Desenvolvimento](https://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=yellow&style=for-the-badge)
-
----
 
 ## COMO RODAR LOCALMENTE
 
@@ -110,4 +103,9 @@ npm run build
 ```bash
 npm run preview
 ```
----
+
+***
+## 📌 STATUS DO PROJETO:
+![Badge Concluído](https://img.shields.io/static/v1?label=STATUS&message=CONCLU%C3%8DDO&color=brightgreen&style=for-the-badge)
+
+***
