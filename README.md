@@ -71,6 +71,16 @@ Durante o desenvolvimento, aprimorei meus conhecimentos em:
 - Uso do Vite para ambiente rápido de desenvolvimento.
 - Melhoria na semântica e na reutilização de código.
 
+---
+
+## 🌐 Projeto Online
+
+<p>
+  🔗 <a href="https://cardapdigital.netlify.app/" target="_blank"><strong>Acesse o projeto aqui</strong></a>
+</p>
+
+***
+
 ## COMO RODAR LOCALMENTE
 
 1. Clone o repositório:
